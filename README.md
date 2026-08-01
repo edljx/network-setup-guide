@@ -8,7 +8,7 @@
 We are a friendly, scrappy tech hub dedicated to helping curious builders replace expensive subscriptions with practical, affordable alternatives. We believe technology should empower, not bankrupt. Whether you're a student, indie creator, or just a tinkerer, we're here to share honest guides and real-world tools that respect your wallet.
 
 🌐 **Website:** [edljx.com](https://edljx.com)  
-📧 **Community:** [more4less.edljx.com](https://more4less.edljx.com)
+📧 **Community:** [members.edljx.com](https://members.edljx.com)
 
 ---
 
